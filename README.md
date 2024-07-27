@@ -2,7 +2,9 @@
 
 Welcome to **Simple Calculator** – a sleek and user-friendly calculator built with HTML and CSS. This project demonstrates a minimalist design with essential functionalities for quick and accurate calculations. Perfect for anyone looking for a straightforward and stylish calculator!
 
-![Calculator Screenshot](images/calculator_screenshot.png)
+![Calculator Screenshot](calc1.jpeg)
+
+![Calculator Screenshot](calc2.jpeg)
 
 ## **Features** ✨
 
